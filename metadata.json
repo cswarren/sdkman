@@ -1,5 +1,5 @@
 {
-"name": "paulosuzart-sdkman",
+"name": "cswarren-sdkman",
 "version": "1.1.2",
 "description": "Installs Sdkman and any package supported by it",
 "license": "Apache License 2.0",
