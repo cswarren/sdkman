@@ -8,5 +8,5 @@
 "source": "https://github.com/cswarren/sdkman",
 "issues_url": null,
 "dependencies": [{
-  "name": "maestrodev/wget"}]
+  "name": "puppet/wget"}]
 }
